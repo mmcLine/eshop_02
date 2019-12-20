@@ -1,0 +1,16 @@
+spring:
+    application:
+        name: eshop-dataaggr
+
+    rabbitmq:
+            host: localhost
+            port: 5672
+            username: guest
+            password: guest
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+server:
+    port: 8770

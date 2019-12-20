@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa755547-4184-4efb-97db-d8129753f163" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/eshop-eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/eshop-hello/target/" />
+    <ignored path="$PROJECT_DIR$/eshop-ribbon/target/" />
+    <ignored path="$PROJECT_DIR$/eshop-feign/target/" />
+    <ignored path="$PROJECT_DIR$/eshop-turbin-server/target/" />
+    <ignored path="$PROJECT_DIR$/eshop-zuul-server/target/" />
+    <ignored path="$PROJECT_DIR$/eshop-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/eshop-sleuth-server/target/" />
+    <ignored path="$PROJECT_DIR$/eshop-product-service/target/" />
+    <ignored path="$PROJECT_DIR$/eshop-common/target/" />
+    <ignored path="$PROJECT_DIR$/eshop-price-service/target/" />
+    <ignored path="$PROJECT_DIR$/eshop-inventory-service/target/" />
+    <ignored path="$PROJECT_DIR$/eshop-datasync-service/target/" />
+    <ignored path="$PROJECT_DIR$/eshop-dataaggr-service/target/" />
+    <ignored path="$PROJECT_DIR$/eshop-product-api/target/" />
+    <ignored path="$PROJECT_DIR$/eshop-datalink-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DataLinkController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eshop-datalink-service/src/main/java/com/mmc/datalink/controller/DataLinkController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="37" column="64" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2178#2179#0" expanded="true" />
+                <element signature="e#2195#2196#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eshop-config-server/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eshop-datalink-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatalinkApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eshop-datalink-service/src/main/java/com/mmc/datalink/DatalinkApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1147#1148#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eshop-datalink-service/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IEshopProductService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eshop-datalink-service/src/main/java/com/mmc/datalink/feign/IEshopProductService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IEshopProductServiceFallBack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eshop-datalink-service/src/main/java/com/mmc/datalink/fallback/IEshopProductServiceFallBack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="478">
+              <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#1023#1024#0" expanded="true" />
+                <element signature="e#1050#1051#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>id</find>
+      <find>findBrandById</find>
+      <find>productProperty</find>
+      <find>findProductPropertyByProductId</find>
+      <find>findByProductId</find>
+      <find>hystrix</find>
+      <find>@EnableCircuitBreaker</find>
+      <find>refresh</find>
+      <find>sayHelloFallback</find>
+      <find>findProductById</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/biz/CategoryBiz.java" />
+        <option value="$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/biz/ProductBiz.java" />
+        <option value="$PROJECT_DIR$/eshop-inventory-service/src/main/java/com/mmc/inventory/config/JedisConfig.java" />
+        <option value="$PROJECT_DIR$/eshop-inventory-service/src/main/java/com/mmc/inventory/biz/ProductInventoryBiz.java" />
+        <option value="$PROJECT_DIR$/eshop-price-service/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-price-service/src/main/java/com/mmc/price/config/JedisConfig.java" />
+        <option value="$PROJECT_DIR$/eshop-price-service/src/main/java/com/mmc/price/biz/ProductPriceBiz.java" />
+        <option value="$PROJECT_DIR$/eshop-common/src/main/java/com/mmc/common/msg/MQEventData.java" />
+        <option value="$PROJECT_DIR$/eshop-common/src/main/java/com/mmc/common/msg/MQDimTypeData.java" />
+        <option value="$PROJECT_DIR$/eshop-common/src/main/java/com/mmc/common/rabbitmq/MQData.java" />
+        <option value="$PROJECT_DIR$/eshop-common/src/main/java/com/mmc/common/rabbitmq/MQEventData.java" />
+        <option value="$PROJECT_DIR$/eshop-common/src/main/java/com/mmc/common/rabbitmq/MQDimTypeData.java" />
+        <option value="$PROJECT_DIR$/eshop-common/src/main/java/com/mmc/common/utils/StringHelper.java" />
+        <option value="$PROJECT_DIR$/eshop-datasync-service/src/main/java/com/mmc/datasync/DatasyncApplication.java" />
+        <option value="$PROJECT_DIR$/eshop-datasync-service/src/main/java/com/mmc/datasync/config/MQConfig.java" />
+        <option value="$PROJECT_DIR$/eshop-datasync-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eshop-datasync-service/src/main/java/com/mmc/datasync/config/RabbitMQConfig.java" />
+        <option value="$PROJECT_DIR$/eshop-datasync-service/src/main/java/com/mmc/datasync/config/ProducerConf.java" />
+        <option value="$PROJECT_DIR$/eshop-common/src/main/java/com/mmc/common/constant/MQqueueConstant.java" />
+        <option value="$PROJECT_DIR$/eshop-dataaggr-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eshop-dataaggr-service/src/main/java/com/mmc/dataaggr/DataaggrApplication.java" />
+        <option value="$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/biz/ProductIntroBiz.java" />
+        <option value="$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/biz/ProductPropertyBiz.java" />
+        <option value="$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/biz/ProductSpecificationBiz.java" />
+        <option value="$PROJECT_DIR$/eshop-dataaggr-service/src/main/java/com/mmc/dataaggr/config/JedisConfig.java" />
+        <option value="$PROJECT_DIR$/eshop-dataaggr-service/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-dataaggr-service/src/main/java/com/mmc/dataaggr/config/TestGc.java" />
+        <option value="$PROJECT_DIR$/eshop-datasync-service/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/rest/BrandController.java" />
+        <option value="$PROJECT_DIR$/eshop-common/src/main/java/com/mmc/common/biz/BaseBiz.java" />
+        <option value="$PROJECT_DIR$/eshop-common/src/main/java/com/mmc/common/rest/BaseController.java" />
+        <option value="$PROJECT_DIR$/eshop-datasync-service/src/main/java/com/mmc/datasync/feign/IEshopProductService.java" />
+        <option value="$PROJECT_DIR$/eshop-product-api/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-datasync-service/src/main/java/com/mmc/datasync/rabbitmq/DataChangeQueueReceiver.java" />
+        <option value="$PROJECT_DIR$/eshop-dataaggr-service/src/main/java/com/mmc/dataaggr/rabbitmq/AggrDataChangeReceiver.java" />
+        <option value="$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/rest/ProductPropertyController.java" />
+        <option value="$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/rest/ProductSpecificationController.java" />
+        <option value="$PROJECT_DIR$/eshop-datalink-service/src/main/java/com/mmc/datalink/fallback/IEshopProductServiceFallBack.java" />
+        <option value="$PROJECT_DIR$/eshop-datalink-service/src/main/java/com/mmc/datalink/feign/IEshopProductService.java" />
+        <option value="$PROJECT_DIR$/eshop-product-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/ProductApplication.java" />
+        <option value="$PROJECT_DIR$/eshop-product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/rabbitmq/RabbitMQSender.java" />
+        <option value="$PROJECT_DIR$/eshop-datalink-service/src/main/java/com/mmc/datalink/DatalinkApplication.java" />
+        <option value="$PROJECT_DIR$/eshop-turbin-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eshop-datalink-service/src/main/java/com/mmc/datalink/config/JedisConfig.java" />
+        <option value="$PROJECT_DIR$/eshop-datalink-service/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/eshop-datalink-service/pom.xml" />
+        <option value="$PROJECT_DIR$/eshop-datalink-service/src/main/java/com/mmc/datalink/controller/DataLinkController.java" />
+        <option value="$PROJECT_DIR$/eshop-datalink-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eshop-config-server/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\mavenrepositoryIdea\repository" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings_ali.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eshop-product-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eshop-product-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="258" />
+    <option name="y" value="18" />
+    <option name="width" value="1401" />
+    <option name="height" value="993" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eshop_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eshop_02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eshop_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eshop_02" type="462c0819:PsiDirectoryNode" />
+              <item name="eshop-config-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eshop_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eshop_02" type="462c0819:PsiDirectoryNode" />
+              <item name="eshop-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eshop_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eshop_02" type="462c0819:PsiDirectoryNode" />
+              <item name="eshop-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eshop_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eshop_02" type="462c0819:PsiDirectoryNode" />
+              <item name="eshop-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eshop_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eshop_02" type="462c0819:PsiDirectoryNode" />
+              <item name="eshop-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eshop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eshop_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eshop_02" type="462c0819:PsiDirectoryNode" />
+              <item name="eshop-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="ExpandSpringBootSpringBootSettingsPanel" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/webProjects/eshop_02/eshop-product-service/src/main/java/com/mmc/product/biz/ProductIntroBiz.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="G:/我的软件/java/visualvm_142/bin/visualvm.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15039062" />
+    <property name="project.structure.side.proportion" value="0.2862069" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\webProjects\eshop_02\eshop-datalink-service\src\main\resources" />
+      <recent name="D:\webProjects\eshop_02\eshop-dataaggr-service\src\main\resources" />
+      <recent name="D:\webProjects\eshop_02\eshop-datasync-service\src\main\resources" />
+      <recent name="D:\webProjects\eshop_02\eshop-inventory-service\src\main\resources" />
+      <recent name="D:\webProjects\eshop_02\eshop-inventory-service\src\main\java\com\mmc\inventory" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mmc.datalink.config" />
+      <recent name="com.mmc.datalink.feign" />
+      <recent name="com.mmc.dataaggr.config" />
+      <recent name="com.mmc.datasync.config" />
+      <recent name="com.mmc.datasync.rabbitmq" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\webProjects\eshop_02\eshop-dataaggr-service\src\main\java\com\mmc\dataaggr\config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DatalinkApplication">
+    <configuration name="DataaggrApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mmc.dataaggr.DataaggrApplication" />
+      <module name="eshop-dataaggr-service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mmc.dataaggr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DatalinkApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mmc.datalink.DatalinkApplication" />
+      <module name="eshop-datalink-service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mmc.datalink.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DatasyncApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mmc.datasync.DatasyncApplication" />
+      <module name="eshop-datasync-service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mmc.datasync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ProductApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mmc.product.ProductApplication" />
+      <module name="eshop-product-service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mmc.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestGc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mmc.dataaggr.config.TestGc" />
+      <module name="eshop-dataaggr-service" />
+      <option name="VM_PARAMETERS" value="-Xmx5M -Dfile:encoding=UTF-8 -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=d://logs/heap.txt &quot;-XX:OnOutOfMemoryError=d:/printstack.bat %p&quot;" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mmc.dataaggr.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="112934717592700" />
+      </RunnerSettings>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eshop-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mmc.eshop.ConfigServerApplication" />
+    </configuration>
+    <configuration name="DataaggrApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eshop-dataaggr-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mmc.dataaggr.DataaggrApplication" />
+    </configuration>
+    <configuration name="DatalinkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eshop-datalink-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mmc.datalink.DatalinkApplication" />
+    </configuration>
+    <configuration name="DatasyncApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eshop-datasync-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mmc.datasync.DatasyncApplication" />
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eshop-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mmc.eshop.EurekaServerApplication" />
+    </configuration>
+    <configuration name="HystrixTurbineServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eshop-turbin-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mmc.eshop.HystrixTurbineServer" />
+    </configuration>
+    <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eshop-product-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mmc.product.ProductApplication" />
+    </configuration>
+    <configuration name="ProductInventoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eshop-inventory-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mmc.inventory.ProductInventoryApplication" />
+    </configuration>
+    <configuration name="ProductPriceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eshop-price-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mmc.price.ProductPriceApplication" />
+    </configuration>
+    <configuration name="SayHelloServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eshop-hello" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mmc.eshop.SayHelloServiceApplication" />
+    </configuration>
+    <configuration name="ServiceFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eshop-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mmc.eshop.ServiceFeignApplication" />
+    </configuration>
+    <configuration name="ServiceZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eshop-zuul-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mmc.eshop.ServiceZuulApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.HystrixTurbineServer" />
+      <item itemvalue="Spring Boot.ServiceFeignApplication" />
+      <item itemvalue="Spring Boot.ServiceZuulApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.ProductApplication" />
+      <item itemvalue="Spring Boot.ProductPriceApplication" />
+      <item itemvalue="Spring Boot.ProductInventoryApplication" />
+      <item itemvalue="Spring Boot.DataaggrApplication" />
+      <item itemvalue="Spring Boot.DatasyncApplication" />
+      <item itemvalue="Spring Boot.SayHelloServiceApplication" />
+      <item itemvalue="Spring Boot.DatalinkApplication" />
+      <item itemvalue="Application.ProductApplication" />
+      <item itemvalue="Application.DatasyncApplication" />
+      <item itemvalue="Application.DataaggrApplication" />
+      <item itemvalue="Application.TestGc" />
+      <item itemvalue="Application.DatalinkApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DatalinkApplication" />
+        <item itemvalue="Application.ProductApplication" />
+        <item itemvalue="Application.DataaggrApplication" />
+        <item itemvalue="Application.DatasyncApplication" />
+        <item itemvalue="Application.TestGc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa755547-4184-4efb-97db-d8129753f163" name="Default" comment="" />
+      <created>1575123904241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575123904241</updated>
+      <workItem from="1575123910168" duration="20586000" />
+      <workItem from="1575249916832" duration="726000" />
+      <workItem from="1575294699972" duration="3265000" />
+      <workItem from="1575336036228" duration="22000" />
+      <workItem from="1575383927209" duration="3972000" />
+      <workItem from="1575421822446" duration="1056000" />
+      <workItem from="1575554613269" duration="5016000" />
+      <workItem from="1575596116047" duration="43000" />
+      <workItem from="1575645384569" duration="672000" />
+      <workItem from="1575646063384" duration="6009000" />
+      <workItem from="1575794253695" duration="9422000" />
+      <workItem from="1575901387066" duration="4345000" />
+      <workItem from="1575940986775" duration="2615000" />
+      <workItem from="1575982007924" duration="8020000" />
+      <workItem from="1576066033450" duration="6293000" />
+      <workItem from="1576112061429" duration="2899000" />
+      <workItem from="1576157180546" duration="4979000" />
+      <workItem from="1576200035508" duration="15833000" />
+      <workItem from="1576240814543" duration="16591000" />
+      <workItem from="1576459044215" duration="1262000" />
+      <workItem from="1576487854810" duration="2313000" />
+      <workItem from="1576545602933" duration="1805000" />
+      <workItem from="1576595745045" duration="1518000" />
+      <workItem from="1576631688198" duration="41000" />
+      <workItem from="1576761945804" duration="673000" />
+      <workItem from="1576804692489" duration="14771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="134747000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32983023" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.50625" side_tool="true" weight="0.23362975" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4491682" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32902032" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32902032" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4085028" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49375" visible="true" weight="0.29587713" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="7" weight="0.32902032" />
+      <window_info anchor="right" id="Bean Validation" order="3" weight="0.32983023" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="7" weight="0.32902032" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32902032" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="27" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/biz/CategoryBiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-datasync-service/src/main/java/com/mmc/datasync/rabbitmq/RabbitMQSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-datasync-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-product-api/src/main/java/com/mmc/product/entity/ProductIntro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-product-api/src/main/java/com/mmc/product/entity/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-product-api/src/main/java/com/mmc/product/entity/Brand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-datasync-service/src/main/java/com/mmc/datasync/rabbitmq/DataChangeQueueReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="80" column="88" selection-start-line="80" selection-start-column="88" selection-end-line="80" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-datasync-service/src/main/java/com/mmc/datasync/feign/IEshopProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-dataaggr-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="52" column="21" selection-start-line="14" selection-start-column="8" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-dataaggr-service/src/main/java/com/mmc/dataaggr/rabbitmq/AggrDataChangeReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="80" column="68" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="80" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-product-api/src/main/java/com/mmc/product/entity/ProductProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-datasync-service/src/main/java/com/mmc/datasync/DatasyncApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="5" selection-start-line="20" selection-start-column="2" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-price-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-common/src/main/java/com/mmc/common/rest/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/biz/ProductSpecificationBiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-93">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-turbin-server/src/main/java/com/mmc/eshop/HystrixTurbineServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-turbin-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-product-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/rest/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/rest/ProductIntroController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/rest/ProductPropertyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="32" column="24" selection-start-line="30" selection-start-column="8" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/rest/ProductSpecificationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/rest/BrandController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/rabbitmq/RabbitMQSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-product-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="58" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-product-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" column="39" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-product-service/src/main/java/com/mmc/product/ProductApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="21" selection-start-line="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-datasync-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-turbin-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mavenrepositoryIdea/repository/com/netflix/hystrix/hystrix-javanica/1.5.12/hystrix-javanica-1.5.12-sources.jar!/com/netflix/hystrix/contrib/javanica/command/MethodExecutionAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-dataaggr-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-dataaggr-service/src/main/java/com/mmc/dataaggr/config/JedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-datasync-service/src/main/java/com/mmc/datasync/config/JedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="54" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-datalink-service/src/main/java/com/mmc/datalink/config/JedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-hello/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="11" lean-forward="true" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-config-server/src/main/java/com/mmc/eshop/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-datalink-service/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="47" column="21" selection-start-line="44" selection-start-column="7" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-feign/src/main/java/com/mmc/eshop/controller/GreetingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-datalink-service/src/main/java/com/mmc/datalink/DatalinkApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-hello/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-hello/src/main/java/com/mmc/eshop/SayHelloServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#1548#1549#0" expanded="true" />
+            <element signature="e#1584#1585#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-datalink-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-feign/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-feign/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-feign/src/main/java/com/mmc/eshop/ServiceFeignApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-datalink-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-datalink-service/src/main/java/com/mmc/datalink/controller/DataLinkController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="37" column="64" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2178#2179#0" expanded="true" />
+            <element signature="e#2195#2196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-datalink-service/src/main/java/com/mmc/datalink/fallback/IEshopProductServiceFallBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+            <element signature="e#1050#1051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-datalink-service/src/main/java/com/mmc/datalink/feign/IEshopProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>eshop-dataaggr-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2862069" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

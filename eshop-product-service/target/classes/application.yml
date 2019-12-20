@@ -1,0 +1,51 @@
+spring:
+    application:
+        name: eshop-product
+    datasource:
+            name: test
+            url: jdbc:mysql://${MYSQL_HOST:localhost}:${MYSQL_PORT:3306}/product?useUnicode=true&characterEncoding=UTF8&serverTimezone=GMT%2B8
+            username: 'root'
+            password: '0490218292'
+            # 使用druid数据源
+            type: com.alibaba.druid.pool.DruidDataSource
+            driver-class-name: com.mysql.jdbc.Driver
+            filters: stat
+            maxActive: 20
+            initialSize: 1
+            maxWait: 60000
+            minIdle: 1
+            timeBetweenEvictionRunsMillis: 60000
+            minEvictableIdleTimeMillis: 300000
+            validationQuery: select 'x'
+            testWhileIdle: true
+            testOnBorrow: false
+            testOnReturn: false
+            poolPreparedStatements: true
+            maxOpenPreparedStatements: 20
+    rabbitmq:
+        host: localhost
+        port: 5672
+        username: guest
+        password: guest
+    zipkin:
+        base-url: http://localhost:9411
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+server:
+    port: 8762
+
+feign:
+  hystrix:
+    enabled: true
+
+mybatis:
+    basepackage: com.mmc.product.mapper
+    xmlLocation: classpath:mapper/**/*.xml
+    mapper-locations: "classpath*:mapper/*.xml"
+
+
+
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eshop-common" />
+        <module name="eshop-config-server" />
+        <module name="eshop-dataaggr-service" />
+        <module name="eshop-datalink-service" />
+        <module name="eshop-datasync-service" />
+        <module name="eshop-eureka-server" />
+        <module name="eshop-inventory-service" />
+        <module name="eshop-price-service" />
+        <module name="eshop-product-api" />
+        <module name="eshop-product-service" />
+        <module name="eshop-turbin-server" />
+        <module name="eshop-zuul-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eshop-feign" target="1.8" />
+      <module name="eshop-hello" target="1.8" />
+      <module name="eshop-ribbon" target="1.8" />
+      <module name="eshop-sleuth-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
